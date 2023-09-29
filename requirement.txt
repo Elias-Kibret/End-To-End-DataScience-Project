@@ -2,6 +2,7 @@ pandas
 numpy
 seaborn
 sklearn
-catboost
+catbo   
 xgboost 
+dill
 #-e .
